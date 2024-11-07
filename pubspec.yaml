@@ -4,7 +4,7 @@ version: 1.0.5
 homepage: https://github.com/Derich367/dartnissanconnect
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: ">=3.3.4 <4.0.0"
 
 dependencies:
   intl: '^0.17.0'
