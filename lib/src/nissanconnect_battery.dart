@@ -117,6 +117,7 @@ class NissanConnectBattery {
             '${timeToFullNormal.inHours} hrs ${timeToFullNormal.inMinutes % 60} mins';
         break;
       case ChargingSpeed.FAST:
+      case ChargingSpeed.FASTEST:
         chargingkWLevelText = 'fast charging';
         chargingRemainingText =
             '${timeToFullFast.inHours} hrs ${timeToFullFast.inMinutes % 60} mins';

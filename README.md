@@ -1,4 +1,5 @@
 # dartnissanconnect
+This is a fork of Tobiaswks dartnissanconnect lib for the NissanConnect API.
 
 A Dart client library for the NissanConnect API for vehicles produced after May 2019.
 
